@@ -1,0 +1,6 @@
+## Company Contacts
+
+- **General Inquiries:** info@yourcompany.com
+- **Sales Department:** sales@yourcompany.com | +1 (555) 123-4567
+- **Support Team:** support@yourcompany.com | +1 (555) 987-6543
+- **Headquarters Address:** 123 Tech Avenue, Innovation City, CA 90210 
