@@ -9,4 +9,12 @@ huggingface-hub
 transformers
 sentence-transformers
 groq
-python-dotenv 
+python-dotenv
+langchain-community
+unstructured
+langchain-huggingface
+langchain-chroma
+markdown
+langchain-groq
+
+# Add any other necessary dependencies here 

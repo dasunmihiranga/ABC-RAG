@@ -1,1 +1,22 @@
- 
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python/
+build/
+dist/
+
+# Virtual environment
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Operating System
+.DS_Store
+thumbs.db 
