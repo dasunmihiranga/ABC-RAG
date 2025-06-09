@@ -8,8 +8,8 @@ from core.agent import get_agent_chain
 from langchain_core.messages import HumanMessage, AIMessage
 
 app = FastAPI(
-    title="Agentic RAG Chatbot API",
-    description="API for Aura, a professional company assistant powered by Agentic RAG.",
+    title="LeapKode Assistant Chatbot API",
+    description="API for LeapKode Assistant, a professional company assistant powered by Agentic RAG.",
     version="1.0.0",
 )
 
