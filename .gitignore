@@ -20,3 +20,4 @@ venv/
 # Operating System
 .DS_Store
 thumbs.db 
+.vercel
