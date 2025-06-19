@@ -5,7 +5,6 @@ This project implements an Agentic RAG (Retrieval Augmented Generation) Chatbot,
 ## Project Structure
 
 ```
-assistant_agent/
 ├── venv/
 ├── .env
 ├── main.py
