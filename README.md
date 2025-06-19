@@ -91,4 +91,7 @@ assistant_agent/
         {
             "response": "Bot's reply here"
         }
-        ``` 
+        ```
+
+![image](https://github.com/user-attachments/assets/82f59fab-fded-435f-8942-269ca8dbe58f)
+
