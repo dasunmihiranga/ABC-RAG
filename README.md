@@ -82,7 +82,8 @@ assistant_agent/
     *   **Request Body:**
         ```json
         {
-            "query": "Your user query here"
+            "query": "Your user query here",
+            "session_id": "user1"
         }
         ```
     *   **Response Body:**
