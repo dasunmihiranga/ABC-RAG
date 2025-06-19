@@ -1,5 +1,5 @@
 # core/agent.py
-# Contains the main Agent (LeapBot) logic 
+# Contains the main Agent (ABCBot) logic 
 
 from langchain_core.runnables import RunnablePassthrough, RunnableWithMessageHistory, RunnableLambda, RunnableBranch
 from langchain_core.messages import HumanMessage, AIMessage
@@ -24,7 +24,7 @@ def get_session_history(session_id: str) -> BaseChatMessageHistory:
 
 def get_agent_chain():
     """
-    Initializes and returns the main LeapKode Assistant agent chain.
+    Initializes and returns the main ABC Assistant agent chain.
     """
     llm = get_llm()
     vector_store = get_vector_store()

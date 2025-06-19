@@ -21,11 +21,7 @@ assistant_agent/
 ├── knowledge_base/
 │   ├── __init__.py
 │   └── docs/
-│       ├── product_features.txt
-│       ├── solution_benefits.md
-│       ├── company_contacts.txt
-│       ├── sales_playbook_qa.md
-│       └── client_needs_analysis_info.md
+│       ├── abc_company_info.md
 └── scripts/
     ├── __init__.py
     └── ingest_data.py
