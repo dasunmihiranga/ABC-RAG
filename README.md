@@ -1,4 +1,4 @@
-# Agentic RAG Chatbot
+# Agentic Conversational RAG Chatbot
 
 This project implements an Agentic RAG (Retrieval Augmented Generation) Chatbot, initially accessible via a web interface. The bot's primary role is to serve as a genuine and professional company assistant, capable of engaging with clients, understanding their needs, and effectively guiding them towards purchasing our services and products.
 
